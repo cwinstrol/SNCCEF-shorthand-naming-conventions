@@ -1,0 +1,49 @@
+abb(s) abbreviation(s) #abbreviate(d)?
+adm admin
+ar(d) archive(d)
+arr array
+c comments #code comments, review comments
+cl(s) class(es)
+cnf(d) config(d)
+ct(s) customers&clients
+cp copy
+d delete//directory #absolute paths
+dd development directory
+emp(s) employee(s)
+f(s) file(s)
+f(s)i file(s) in
+fncl financial
+f(s)o file(s) out
+ftr future
+incr increment
+incl incl
+lb library
+lcl local
+lg legal
+lv live
+m main
+md metadata
+n notes
+num(s) number(s)
+#o nothing plurable bc os? || ren os = OS
+os operating system
+p path
+prms permissions
+q(s) question(s)&querie(s)
+rc recursive
+req(s) request(s)
+res(s) response(s)
+re read
+#rsrc(s)
+rm /remove
+s start&first
+str(s) string(s)
+sstr(s) substring(s)
+tl task list
+tt test
+tr(d) translate(d)
+vd(s) video(s)
+wr write
+ws(s) website(s)
+x variable&temporary
+z end&last
